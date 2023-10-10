@@ -45,11 +45,11 @@
 - ``Pemasaran dan Promosi  ``
 
 
-### ***Kebutuhan Sistemnya***
+### ***Kebutuhan Sistemnya :***
 
 - Website e-commerce yang menjual webcam.
 
-- Fitur augmented reality yang dapat digunakan pembeli agar lebih yakin dengan produk yang akan dibeli.
+- Fitur ``Augmented Reality`` yang dapat digunakan pembeli agar lebih yakin dengan produk yang akan dibeli.
 
 - Sistem pemantauan ruang berbasis webcam.
 
