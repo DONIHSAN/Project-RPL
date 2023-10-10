@@ -1,4 +1,4 @@
-# Tugas Praktikum { Pertemuan ke 4 } <img src=https://www.lieberlieber.com/wp-content/uploads/2017/10/EA_Title3.png width="130px" >
+# Tugas RPL { Pertemuan ke 4 } <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/2560px-UML_logo.svg.png width="130px" >
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
@@ -7,18 +7,18 @@
 
 ## Pertanyaan & Tugas
 
-1. Tuliskan Nama Project Sistem Informasi !
+**1. Tuliskan Nama Project Sistem Informasi !**
 
-2. Tuliskan Analisanya:
+**2. Tuliskan Analisanya :**
 
-- Permasalahannya :
-- Kebutuhan sistemnya :
+- ***Permasalahannya :***
+- ***Kebutuhan sistemnya :***
 
-3. Gambarkan usecase Diagramnya!
+**3. Gambarkan usecase Diagramnya !**
 
-4. Activity Diagramnya!
+**4. Activity Diagramnya !**
 
-5. Sequence Diagramnya!
+**5. Sequence Diagramnya !**
 
 ## Jawab
 
@@ -26,7 +26,7 @@
 
 ### 2. Tuliskan Permasalahanya :
 
-- ***Permasalahanya :***
+### ***Permasalahanya :***
 
 - ``Persaingan Pasar :`` Pasar penjualan online webcam sangat kompetitif, dengan banyak pesaing yang menawarkan berbagai merek dan model webcam. Membangun keunggulan kompetitif dan menarik pelanggan menjadi tantangan utama.
 
@@ -71,7 +71,6 @@
 
 ## Sequence Diagram 
 
+![](screenshot/ss3.png)
 
-
-## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png"># RPL2_
-Penjelasan Tugas Praktikum
+## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
