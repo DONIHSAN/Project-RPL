@@ -7,24 +7,24 @@
 
 ## Pertanyaan & Tugas
 
-**1. Tuliskan Nama Project Sistem Informasi !**
+1. Tuliskan Nama Project Sistem Informasi !
 
-**2. Tuliskan Analisanya :**
+2. Tuliskan Analisanya :
 
 - ***Permasalahannya :***
 - ***Kebutuhan sistemnya :***
 
-**3. Gambarkan usecase Diagramnya !**
+3. Gambarkan usecase Diagramnya !
 
-**4. Activity Diagramnya !**
+4. Activity Diagramnya !
 
-**5. Sequence Diagramnya !**
+5. Sequence Diagramnya !
 
 ## Jawab
 
 ### 1. Sistem Informasi Penjualan Webcam Di Toko Nina Bobo Berbasis Website
 
-### 2. Tuliskan Permasalahanya :
+### 2. Tuliskan Analisanya :
 
 ### ***Permasalahanya :***
 
