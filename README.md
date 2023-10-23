@@ -34,7 +34,7 @@
 
 - ``Keamanan Data :`` Keamanan data pelanggan dan informasi pembayaran adalah perhatian utama dalam bisnis e-commerce. Pelanggan harus merasa aman saat bertransaksi online, dan perlindungan data yang kuat adalah keharusan.
 
-- ``Infrastruktur Teknologi :``Perlu memiliki infrastruktur teknologi yang handal, termasuk server web, kecepatan internet, dan perangkat lunak e-commerce yang dapat diandalkan untuk mengelola situs web.
+- ``Infrastruktur Teknologi :`` Perlu memiliki infrastruktur teknologi yang handal, termasuk server web, kecepatan internet, dan perangkat lunak e-commerce yang dapat diandalkan untuk mengelola situs web.
 
 - ``Desain User-Friendly :`` Desain situs web harus intuitif dan user-friendly agar pelanggan dapat dengan mudah menavigasi produk, melakukan pembelian, dan menemukan informasi yang mereka butuhkan. Dan masih ada lagi di antara nya :
 
