@@ -69,7 +69,7 @@
 
 ### Activity Diagram Admin
 
-![](screenshot/Activity%20Diagram%20Admin.png)
+![](screenshot/Activity%20Diagram%20Admin%20(2).png)
 
 ### Activity Diagram Pembeli
 
