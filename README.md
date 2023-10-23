@@ -1,4 +1,4 @@
-# Tugas RPL { Pertemuan ke 4 } <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/2560px-UML_logo.svg.png width="130px" >
+# Tugas RPL { Pertemuan ke 6 } <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/2560px-UML_logo.svg.png width="130px" >
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
@@ -22,7 +22,7 @@
 
 ## Jawab
 
-### 1. Sistem Informasi Penjualan Webcam Di Toko Nina Bobo Berbasis Website
+### 1. Sistem Informasi Penjualan Webcam Di Toko "La Electronica" Berbasis Website
 
 ### 2. Tuliskan Analisanya :
 
@@ -53,7 +53,7 @@
 
 - Sistem pemantauan ruang berbasis webcam.
 
-- Framework CodeIgniter dapat digunakan sebagai basis perancangan website e-commerce.
+- ``Framework CodeIgniter`` dapat digunakan sebagai basis perancangan website e-commerce.
 
 - Sistem pembayaran yang aman dan terpercaya.
 
@@ -69,9 +69,9 @@
 
 ### Activity Diagram Admin
 
-![](screenshot/Activity%20Diagram%20Admin%20(2).png)
+![](screenshot/Activity%20Diagram%20Admin.png)
 
-### Activity Diagram Pembeli
+### Activity Diagram Customer
 
 ![](screenshot/Activity%20Diagram%20Pembeli.png)
 
@@ -81,6 +81,20 @@
 
 ## Sequence Diagram 
 
-![](screenshot/ss3.png)
+### Sequence Diagram Login Admin 
+
+![](screenshot/ss4.png)
+
+### Sequence Diagram Pemesanan
+
+![](screenshot/ss5.png)
+
+### Sequence Diagram Pembayaran
+
+![](screenshot/ss6.png)
+
+## Class Diagram
+
+![](screenshot/Class%20Diagram%20Activity.png)
 
 ## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
