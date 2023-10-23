@@ -67,7 +67,17 @@
 
 ## Activity Diagram 
 
-![](screenshot/ss2.png)
+### Activity Diagram Admin
+
+![](screenshot/Activity%20Diagram%20Admin.png)
+
+### Activity Diagram Pembeli
+
+![](screenshot/Activity%20Diagram%20Pembeli.png)
+
+### Activity Diagram Pemilik Toko
+
+![](screenshot/Activity%20Diagram%20Pemilik%20Toko.png)
 
 ## Sequence Diagram 
 
