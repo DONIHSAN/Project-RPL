@@ -28,7 +28,7 @@
 
 ### 2. Tuliskan Analisanya :
 
->### ***Permasalahanya :***
+### ***Permasalahanya :***
 >
 >- ``Persaingan Pasar :`` Pasar penjualan online webcam sangat kompetitif, dengan banyak pesaing yang menawarkan berbagai merek dan model webcam. Membangun keunggulan kompetitif dan menarik pelanggan menjadi tantangan utama.
 >
@@ -47,7 +47,7 @@
 >- ``Pemasaran dan Promosi``
 
 
->### ***Kebutuhan Sistemnya :***
+### ***Kebutuhan Sistemnya :***
 >
 >- Website e-commerce yang menjual webcam.
 >
@@ -75,17 +75,27 @@
 
 <img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="200px">
 
-- Selengkapnya ada [disini](https://bit.ly/3GoQdy3)
+- Penjelasan lengkap ada di file pdf , yg telah saya buat [klik link disini.](https://bit.ly/3GoQdy3)
 
 ## Tampilan User Interface
 
+- **Home Page**
+
 ![](screenshot/Web%20Design%201.png)
+
+- **Our Product (1)**
 
 ![](screenshot/Web%20Design%202.png)
 
+- Banner
+
 ![](screenshot/Web%20Design%203.png)
 
+- Our Product (2)
+
 ![](screenshot/Web%20Design%204.png)
+
+- **Footer**
 
 ![](screenshot/Web%20Design%205.png)
 
