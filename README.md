@@ -89,7 +89,7 @@
 
 - **Detail Product**
 
-![](screenshot/Web%20Deisign%206.png)
+![](screenshot/Web%20Design%206.png)
 
 - **Banner CTA ( *Call to Action* )**
 
