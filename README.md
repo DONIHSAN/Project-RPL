@@ -1,4 +1,4 @@
-# Project-RPL { 'website eCommerce' } <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/2560px-UML_logo.svg.png width="130px" >
+# Project-RPL ( Website eCommerce )
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
@@ -28,42 +28,42 @@
 
 ### 2. Tuliskan Analisanya :
 
-### ***Permasalahanya :***
-
-- ``Persaingan Pasar :`` Pasar penjualan online webcam sangat kompetitif, dengan banyak pesaing yang menawarkan berbagai merek dan model webcam. Membangun keunggulan kompetitif dan menarik pelanggan menjadi tantangan utama.
-
-- ``Keamanan Data :`` Keamanan data pelanggan dan informasi pembayaran adalah perhatian utama dalam bisnis e-commerce. Pelanggan harus merasa aman saat bertransaksi online, dan perlindungan data yang kuat adalah keharusan.
-
-- ``Infrastruktur Teknologi :`` Perlu memiliki infrastruktur teknologi yang handal, termasuk server web, kecepatan internet, dan perangkat lunak e-commerce yang dapat diandalkan untuk mengelola situs web.
-
-- ``Desain User-Friendly :`` Desain situs web harus intuitif dan user-friendly agar pelanggan dapat dengan mudah menavigasi produk, melakukan pembelian, dan menemukan informasi yang mereka butuhkan. Dan masih ada lagi di antara nya :
-
-- ``Manajemen Stok`` 
-
-- ``Integrasi Pembayaran``
-
-- ``Layanan Pelanggan``
-
-- ``Pemasaran dan Promosi``
-
-
-### ***Kebutuhan Sistemnya :***
-
-- Website e-commerce yang menjual webcam.
-
-- Fitur ``Augmented Reality`` yang dapat digunakan pembeli agar lebih yakin dengan produk yang akan dibeli.
-
-- Sistem pemantauan ruang berbasis webcam.
-
-- ``Framework CodeIgniter`` dapat digunakan sebagai basis perancangan website e-commerce.
-
-- Sistem pembayaran yang aman dan terpercaya.
-
-- Tampilan website yang menarik dan mudah digunakan.
+>### ***Permasalahanya :***
+>
+>- ``Persaingan Pasar :`` Pasar penjualan online webcam sangat kompetitif, dengan banyak pesaing yang menawarkan berbagai merek dan model webcam. Membangun keunggulan kompetitif dan menarik pelanggan menjadi tantangan utama.
+>
+>- ``Keamanan Data :`` Keamanan data pelanggan dan informasi pembayaran adalah perhatian utama dalam bisnis e-commerce. Pelanggan harus merasa aman saat bertransaksi online, dan perlindungan data yang kuat adalah keharusan.
+>
+>- ``Infrastruktur Teknologi :`` Perlu memiliki infrastruktur teknologi yang handal, termasuk server web, kecepatan internet, dan perangkat lunak e-commerce yang dapat diandalkan untuk mengelola situs web.
+>
+>- ``Desain User-Friendly :`` Desain situs web harus intuitif dan user-friendly agar pelanggan dapat dengan mudah menavigasi produk, melakukan pembelian, dan menemukan informasi yang mereka butuhkan. Dan masih ada lagi di antara nya :
+>
+>- ``Manajemen Stok`` 
+>
+>- ``Integrasi Pembayaran``
+>
+>- ``Layanan Pelanggan``
+>
+>- ``Pemasaran dan Promosi``
 
 
+>### ***Kebutuhan Sistemnya :***
+>
+>- Website e-commerce yang menjual webcam.
+>
+>- Fitur ``Augmented Reality`` yang dapat digunakan pembeli agar lebih yakin dengan produk yang akan dibeli.
+>
+>- Sistem pemantauan ruang berbasis webcam.
+>
+>- ``Framework CodeIgniter`` dapat digunakan sebagai basis perancangan website e-commerce.
+>
+>- Sistem pembayaran yang aman dan terpercaya.
+>
+>- Tampilan website yang menarik dan mudah digunakan.
 
-## All Diagrams
+
+
+# All Diagrams
 
 - Use Case Diagram
 
@@ -72,6 +72,22 @@
 - Sequence Diagram
 
 - Class Diagram
+
+<img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="200px">
+
+- Selengkapnya ada [disini](https://bit.ly/3GoQdy3)
+
+## Tampilan User Interface
+
+![](screenshot/Web%20Design%201.png)
+
+![](screenshot/Web%20Design%202.png)
+
+![](screenshot/Web%20Design%203.png)
+
+![](screenshot/Web%20Design%204.png)
+
+![](screenshot/Web%20Design%205.png)
 
 
 
