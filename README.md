@@ -75,7 +75,7 @@
 
 <img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="200px">
 
-- Penjelasan lengkap ada di file pdf , yg telah saya buat [klik link disini.](https://bit.ly/3GoQdy3)
+- Penjelasan lengkapnya ada di file pdf  [klik link disini.](https://bit.ly/3GoQdy3) 
 
 ## Tampilan User Interface
 
@@ -83,15 +83,15 @@
 
 ![](screenshot/Web%20Design%201.png)
 
-- **Our Product (1)**
+- **Our Product ( 1)**
 
 ![](screenshot/Web%20Design%202.png)
 
-- Banner
+- **Banner**
 
 ![](screenshot/Web%20Design%203.png)
 
-- Our Product (2)
+- **Our Product ( 2 )**
 
 ![](screenshot/Web%20Design%204.png)
 
