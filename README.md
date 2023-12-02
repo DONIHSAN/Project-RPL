@@ -1,4 +1,4 @@
-# Tugas RPL { Pertemuan ke 6 } <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/2560px-UML_logo.svg.png width="130px" >
+# Project-RPL { 'website eCommerce' } <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/2560px-UML_logo.svg.png width="130px" >
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
@@ -24,7 +24,7 @@
 
 ## Jawab
 
-### 1. Sistem Informasi Penjualan Webcam Di Toko "La Electronica" Berbasis Website
+### 1. Sistem Informasi Penjualan Webcam Di Toko "FTS.Store" Berbasis Website
 
 ### 2. Tuliskan Analisanya :
 
@@ -63,40 +63,16 @@
 
 
 
-## Use Case Diagram 
+## All Diagrams
 
-![](screenshot/ss1.png)
+- Use Case Diagram
 
-## Activity Diagram 
+- Activity Diagram
 
-### Activity Diagram Admin
+- Sequence Diagram
 
-![](screenshot/Activity%20Diagram%20Admin.png)
+- Class Diagram
 
-### Activity Diagram Customer
 
-![](screenshot/Activity%20Diagram%20Pembeli.png)
-
-### Activity Diagram Pemilik Toko
-
-![](screenshot/Activity%20Diagram%20Pemilik%20Toko.png)
-
-## Sequence Diagram 
-
-### Sequence Diagram Login Admin 
-
-![](screenshot/ss4.png)
-
-### Sequence Diagram Pemesanan
-
-![](screenshot/ss5.png)
-
-### Sequence Diagram Pembayaran
-
-![](screenshot/ss6.png)
-
-## Class Diagram
-
-![](screenshot/Class%20Diagram%20Activity.png)
 
 ## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
