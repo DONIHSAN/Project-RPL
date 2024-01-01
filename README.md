@@ -81,28 +81,43 @@
 
 - **Home Page**
 
-![](screenshot/Web%20Design%201.png)
+![](screenshot/ss1.png)
 
 - **Our Product ( 1 )**
 
-![](screenshot/Web%20Design%202.png)
+![](screenshot/ss2.png)
 
 - **Detail Product**
 
-![](screenshot/Web%20Design%206.png)
+![](screenshot/ss3.png)
 
 - **Banner CTA ( *Call to Action* )**
 
-![](screenshot/Web%20Design%203.png)
+![](screenshot/ss4.png)
 
 - **Our Product ( 2 )**
 
-![](screenshot/Web%20Design%204.png)
+![](screenshot/ss5.png)
 
 - **Footer**
 
-![](screenshot/Web%20Design%205.png)
+![](screenshot/ss6.png)
 
+- **User Register Form**
+
+![](screenshot/ss9.png)
+
+- **User Login Form**
+
+![](screenshot/ss10.png)
+
+- **User Page**
+
+![](screenshot/ss8.png)
+
+- **Admin Page**
+
+![](screenshot/ss7.png)
 
 
 ## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
