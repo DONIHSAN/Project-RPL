@@ -1,4 +1,4 @@
-# Project-RPL ( Website eCommerce )
+# FTS.Store ( eCommerce Website )
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
